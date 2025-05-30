@@ -1,2 +1,2 @@
 # list-concept-in-HTML
-A list in HTML is a way to group related items together. HTML provides different types of lists depending on how you want the information to appear. 
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript, a programming language.
